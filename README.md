@@ -6,7 +6,7 @@ You must know the basics in JavaScript and HTML, like JavaScript Objects, functi
 
 The only difficulty you might face, is how to work with an API using JavaScript? but trust me that won't be of a big problem.
 
-Let's talk about the application you're going to build; our weather app will show the weather information that it will get from the API like this, an Icon that shows the weather status, the temperature value (18°C) in Celsius unit, the weather description (clear sky), and then the user's city and country (London, GB).
+Let's talk about the application you're going to build; our weather app will show the weather information that it will get from the API like this, an Icon that shows the weather status, the temperature value (18°C) in Celsius unit, the weather description (clear sky), and then the user's city and country (Greater Noida, India).
 
 When the user clicks on the temperature value, that will convert it from Celsius to Fahrenheit.
 
@@ -15,4 +15,4 @@ Link to her Repo: https://github.com/manifestinteractive/weather-underground-ico
 
 The API provider is http://www.OpenWeatherMap.org
 
-To Create this web application please follow the tutorial on my channel:https://youtu.be/KqZGuzrY9D4
+
